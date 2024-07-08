@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/movie-card/static/css/main.ccfd3975.css",
+    "main.js": "/movie-card/static/js/main.0ee39435.js",
+    "static/js/453.36e3b7fa.chunk.js": "/movie-card/static/js/453.36e3b7fa.chunk.js",
+    "index.html": "/movie-card/index.html",
+    "static/media/search.svg": "/movie-card/static/media/search.db964b809d21320fb503cb05f4dc8a09.svg",
+    "main.ccfd3975.css.map": "/movie-card/static/css/main.ccfd3975.css.map",
+    "main.0ee39435.js.map": "/movie-card/static/js/main.0ee39435.js.map",
+    "453.36e3b7fa.chunk.js.map": "/movie-card/static/js/453.36e3b7fa.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ccfd3975.css",
+    "static/js/main.0ee39435.js"
+  ]
+}
